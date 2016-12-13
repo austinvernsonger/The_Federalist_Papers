@@ -1,9 +1,8 @@
-# The Same Subject Continued: Concerning Dangers From Foreign Force and Influence
+The Same Subject Continued: Concerning Dangers From Foreign Force and Influence
 
-  
 For the Independent Journal.
 
-### Author:John Jay
+Author:John Jay
 
 To the People of the State of New York:
 
