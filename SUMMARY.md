@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Federalist No. 1](federalist-no-1.md)
+    * [Notes](notes.md)
+
