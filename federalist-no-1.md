@@ -1,4 +1,6 @@
+# General Introduction
 
+For the Indpendent Journal
 
 ### Author:Alexander Hamilton
 
@@ -27,4 +29,6 @@ It may perhaps be thought superfluous to offer arguments to prove the utility of
 _PUBLIUS._
 
 1. The same idea, tracing the arguments to their consequences, is held out in several of the late publications against the new Constitution
+
+
 
