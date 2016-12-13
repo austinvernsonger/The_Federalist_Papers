@@ -66,4 +66,25 @@
 * Federalist No. 62
 * Federalist No. 63
 * Federalist No. 64
+* Federalist No. 65
+* Federalist No. 66
+* Federalist No. 67
+* Federalist No. 68
+* Federalist No. 69
+* Federalist No. 70
+* Federalist No. 71
+* Federalist No. 72
+* Federalist No. 73
+* Federalist No. 74
+* Federalist No. 75
+* Federalist No. 76
+* Federalist No. 77
+* Federalist No. 78
+* Federalist No. 79
+* Federalist No. 80
+* Federalist No. 81
+* Federalist No. 82
+* Federalist No. 83
+* Federalist No. 84
+* Federalist No. 
 
