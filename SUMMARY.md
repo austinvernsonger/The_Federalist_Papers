@@ -33,6 +33,6 @@
 * [Federalist No. 29](federalist-no-29.md)
 * Federalist No. 30
 * Federalist No. 31
-* Federalist No. 32
-* Federalist No. 33
+* [Federalist No. 32](federalist-no-32.md)
+* [Federalist No. 33](federalist-no-33.md)
 
