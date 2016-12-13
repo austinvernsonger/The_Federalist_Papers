@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Federalist No. 1](federalist-no-1.md)
-    * [Notes](notes.md)
 * [Federalist No. 2](federalist-no-2.md)
 * [Federalist No. 3](federalist-no-3.md)
 * [Federalist No. 4](federalist-no-4.md)
