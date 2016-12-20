@@ -1,7 +1,6 @@
 {
     "plugins": [
         "footer",
-        "page-numbering",
         "anchors",
         "theme-ingenia",
         "packt-fontsettings"
